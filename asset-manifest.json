@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/enord-webpage/static/js/main.95af4895.js",
+    "static/js/787.4191d778.chunk.js": "/enord-webpage/static/js/787.4191d778.chunk.js",
+    "static/media/drone2.jpg": "/enord-webpage/static/media/drone2.4428249f9c22be3f6f3f.jpg",
+    "static/media/drone3.jpg": "/enord-webpage/static/media/drone3.17cc2a7814145fbe56e5.jpg",
+    "static/media/drone4.jpg": "/enord-webpage/static/media/drone4.b1d10387658f8ce3aa28.jpg",
+    "static/media/drone1.jpg": "/enord-webpage/static/media/drone1.8fcaffd5e6fbd5e3f03e.jpg",
+    "index.html": "/enord-webpage/index.html",
+    "main.95af4895.js.map": "/enord-webpage/static/js/main.95af4895.js.map",
+    "787.4191d778.chunk.js.map": "/enord-webpage/static/js/787.4191d778.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95af4895.js"
+  ]
+}
