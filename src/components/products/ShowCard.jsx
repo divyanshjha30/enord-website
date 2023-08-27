@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { styled } from 'styled-components';
 import { SearchCard, SearchImgWrapper } from '../common/SearchCard';
 
-const ShowCard = ({ id, name, image }) => {
+const ShowCard = ({ name, image }) => {
   return (
     <SearchCard>
       <SearchImgWrapper>
@@ -12,9 +12,7 @@ const ShowCard = ({ id, name, image }) => {
       <h1>{name}</h1>
 
       <ActionSection>
-        <Link to={`/contact`}>
-          Read more
-        </Link>
+        <Link to={`/contact`}>Read more</Link>
       </ActionSection>
     </SearchCard>
   );
