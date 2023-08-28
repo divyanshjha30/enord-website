@@ -4,13 +4,13 @@ const Contact = () => {
   return (
     <Div>
       <Big>
-        To buy any pruducts or to get a free consultation, kindly contact us.
+        To buy any products or to get a free consultation, kindly contact us.
         <br />
         Our expert team members are trained to provide you the best possible
         experience,
         <br />
-        and will make your journey as smooth and simple as buying a
-        pair of jeans!
+        and will make your journey as smooth and simple as buying a pair of
+        jeans!
       </Big>
       <Brown>Address</Brown>
       <White>

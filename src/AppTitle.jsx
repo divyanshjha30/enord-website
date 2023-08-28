@@ -10,7 +10,7 @@ export default function AppTitle(props) {
   return (
     <div>
       <ImgWrapper>
-        <a href="https://enord.co/" target='_blank' rel='noreferrer' >
+        <a href="https://enord.co/">
           <img src={enordLogoFull} alt="enordLogo" />
         </a>
       </ImgWrapper>
