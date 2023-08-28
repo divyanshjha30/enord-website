@@ -11,6 +11,7 @@ const Products = () => {
           id={data.id}
           name={data.name}
           image={data.image}
+          price={data.price}
         />
       ))}
     </FlexGrid>
