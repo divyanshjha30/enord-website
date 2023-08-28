@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/enord-website/static/js/main.b668d5bc.js",
+    "main.js": "/enord-website/static/js/main.881e076f.js",
     "static/js/787.4191d778.chunk.js": "/enord-website/static/js/787.4191d778.chunk.js",
     "static/media/drone2.jpg": "/enord-website/static/media/drone2.4428249f9c22be3f6f3f.jpg",
     "static/media/drone3.jpg": "/enord-website/static/media/drone3.17cc2a7814145fbe56e5.jpg",
     "static/media/drone4.jpg": "/enord-website/static/media/drone4.b1d10387658f8ce3aa28.jpg",
     "static/media/drone1.jpg": "/enord-website/static/media/drone1.8fcaffd5e6fbd5e3f03e.jpg",
     "index.html": "/enord-website/index.html",
-    "main.b668d5bc.js.map": "/enord-website/static/js/main.b668d5bc.js.map",
+    "main.881e076f.js.map": "/enord-website/static/js/main.881e076f.js.map",
     "787.4191d778.chunk.js.map": "/enord-website/static/js/787.4191d778.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b668d5bc.js"
+    "static/js/main.881e076f.js"
   ]
 }
