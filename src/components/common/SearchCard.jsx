@@ -18,11 +18,11 @@ export const SearchCard = styled.div`
   height: 100%;
   margin: 0 15px 40px;
   h1 {
+    color: #ffffff;
     margin: 10px 0;
     font-size: 21px;
   }
-  p {
-    margin-top: 0;
-    margin-bottom: 5px;
+  a {
+    text-decoration: none;
   }
 `;

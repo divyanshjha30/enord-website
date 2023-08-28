@@ -13,6 +13,7 @@ function App() {
             <Route element={<MainLayout />}>
               <Route path="/" element={<Home />} />
               <Route path="/contact" element={<Contact />} />
+              <Route path="/contact/Rakshak" element={<Contact name={"Rakshak"} />} />
             </Route>
             <Route path="*" element={<div>Not Found</div>} />
           </Routes>
