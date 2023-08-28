@@ -2,7 +2,7 @@
   "name": "enord-webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://divyanshjha30.github.io/enord-webpage",
+  "homepage": "https://divyanshjha30.github.io/enord-website",
   "dependencies": {
     "@tanstack/react-query": "^4.33.0",
     "@testing-library/jest-dom": "^5.17.0",
