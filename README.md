@@ -25,13 +25,13 @@
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| **React 18** | UI framework |
-| **React Router** | Client-side routing |
-| **Styled Components** | CSS-in-JS styling |
-| **React Query** | Data fetching & caching |
-| **Create React App** | Build tooling |
+| Technology            | Purpose                 |
+| --------------------- | ----------------------- |
+| **React 18**          | UI framework            |
+| **React Router**      | Client-side routing     |
+| **Styled Components** | CSS-in-JS styling       |
+| **React Query**       | Data fetching & caching |
+| **Create React App**  | Build tooling           |
 
 ---
 
